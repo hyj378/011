@@ -1,7 +1,7 @@
 # main저장소
 
 **opencv과제코드**는 코드에<br>
-**추가정리자료**는 issues에 있습니다!
+**추가정리자료**는 issues에 있습니다!<br>
 과제나 정리를 업로드하는 주소입니다 Link:[go to!](https://hyj378.github.io/open_cv_basic/)
 **********
 실습과정중 경험한 오류<br>
